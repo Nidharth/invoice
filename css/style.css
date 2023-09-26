@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+}
+h1{
+	color:#03fcf4
+}
+.container{
+	border:1px solid black;
+	padding:30px;
+	margin:10px;
+	
+}
